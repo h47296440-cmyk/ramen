@@ -1,0 +1,6 @@
+{
+  "name": "ラーメン屋経営",
+  "description": "こだわりのスープ、麺、具材を組み合わせて究極のラーメンを作り、行列のできるラーメン屋を経営するシミュレーションゲーム。店舗アップグレードや秘伝のレシピを開発して、日本一のラーメン店を目指しましょう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

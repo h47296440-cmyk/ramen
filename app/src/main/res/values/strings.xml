@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ラーメン屋経営シミュレーター</string>
+    <string name="tab_business">営業 (模擬)</string>
+    <string name="tab_kitchen">厨房 (開発)</string>
+    <string name="tab_upgrade">店舗・仕入</string>
+    <string name="tab_reviews">評判・日誌</string>
+    
+    <string name="upgrade_seats_title">客席の増築 (カウンター)</string>
+    <string name="upgrade_seats_desc">席数を増やして、同時来店数をアップ！</string>
+    <string name="upgrade_boiling_title">スープ自動煮沸器</string>
+    <string name="upgrade_boiling_desc">旨味の抽出がアップし、全体の評価が向上。</string>
+    <string name="upgrade_decor_title">看板と赤提灯</string>
+    <string name="upgrade_decor_desc">店の風情を良くして人気と客の忍耐を強化。</string>
+    <string name="upgrade_marketing_title">ビラ配り＆チラシ広告</string>
+    <string name="upgrade_marketing_desc">周辺地域への宣伝で、お昼時の来客数を増やす。</string>
+    
+    <string name="label_day">第 %1$d 日目</string>
+    <string name="label_money">資金: %1$,d 円</string>
+    <string name="label_fans">人気ファン: %1$d</string>
+</resources>
